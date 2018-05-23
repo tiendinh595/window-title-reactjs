@@ -7,7 +7,7 @@ npm i --save window-title
 ```
 
 ### use
-```
+``` javascript
 import WindowTitle from 'window-title'
 <WindowTitle title="window title" />
 ```
